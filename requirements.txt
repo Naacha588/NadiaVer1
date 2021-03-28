@@ -51,3 +51,5 @@ pytube
 youtube-search-python
 avprobe
 avconv
+ffprobe
+ffmpeg
