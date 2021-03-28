@@ -49,5 +49,5 @@ pythonping
 html_telegraph_poster
 pytube
 youtube-search-python
-ffmpeg
-ffprobe
+avprobe
+avconv
